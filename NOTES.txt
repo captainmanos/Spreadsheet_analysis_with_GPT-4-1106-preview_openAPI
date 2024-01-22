@@ -1,9 +1,0 @@
-**YOU NEED AN API KEY FROM OPEN AI 
-**YOU HAVE TO INSTALL PYTHON AND THE NECESSARY LIBRARIES
-
-**To run the program, ensure that all the files are in the same directory, and then execute python main.py."
-
-**The OpenAI API key in my system is installed in environmental variables, and the configuration is set accordingly. Make modifications according to your needs
-
-**FUNCTION OF THE APP
-You will be asked to import XLSX files, and then, through a chat interface, you can analyze the data in the files."
