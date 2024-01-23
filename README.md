@@ -45,4 +45,4 @@ The `session_manager` manages this functionality, utilizing a `session.json` fil
  Logging
 The application logs its activities and errors to an 'app.log' file. This feature is configured in the `logger_config` section and can assist in diagnosing issues that may arise during operation.
 
-Feel free to reach out if any problems occur or if you have any questions regarding the functionality of the application.
+Feel free to reach out.
