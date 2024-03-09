@@ -3,7 +3,7 @@ from tkinter import messagebox
 import logging
 import os
 
-# Assume that the OPENAI_API_KEY is set correctly in your environment variables
+
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
 def ask_gpt(question, context, model="gpt-4-1106-preview"):
